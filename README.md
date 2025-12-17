@@ -52,4 +52,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🔐 Password Manager - (Python)](https://github.com/ShadiSec/Password-Manager/blob/main/main.py)   
   A graphical password manager that allows users to store, view, and copy saved credentials from a local file.
 
+> [🌭 AWS Rekognition SeeFood - (Python)](https://github.com/ShadiSec/AWS-Rekognition-SeeFood/blob/main/SeeFood.py)   
+  Utilizes the AWS Rekognition API to detect if an image is a "Hot Dog," "Not Hot Dog," or "Not Food," and uses the Pillow (PIL) library to overlay the verdict on the original image.
+
 > 🚧 More Coming Soon...
